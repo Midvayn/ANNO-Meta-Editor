@@ -4,6 +4,10 @@ ANNO Meta Editor is a small local web tool for viewing, editing, formatting, and
 
 It is especially useful for LoRA creators, ComfyUI users, dataset builders, and anyone who needs to inspect or clean metadata without uploading files to an external service.
 
+## Screenshots
+
+![ANNO-Meta-Editor](screenshots/screenshot1.jpeg)
+
 ## Features
 
 - Load `.safetensors` model metadata without manually digging through headers
