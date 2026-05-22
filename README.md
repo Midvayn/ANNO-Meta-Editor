@@ -6,7 +6,7 @@ It is especially useful for LoRA creators, ComfyUI users, dataset builders, and 
 
 ## Screenshots
 
-![ANNO-Meta-Editor](screenshots/screenshot1.jpeg)
+![ANNO-Meta-Editor](screenshots/screen1.jpeg)
 
 ## Features
 
